@@ -1,5 +1,8 @@
 ---
-title: Noisemaker's website
+title: Welcome
 ---
+You've entered my extra-special subdomain. Here you'll find behind the scenes looks at various solo projects I'm working on (and have worked on). I hope to write a few tutorial posts to shed some light on various programming and music tricks I've learned over the years.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I also maintain a [notebook](/Notes) here where I publish my thoughts and random ideas for future projects. Don't even think about stealing them unless you can really knock it out of the park.
+## Noteworthy projects
+* [[Blockade Runner]]. Made in 2021 over the span of two days. A love letter to stick figure flash games. Ridiculous return on investment in terms of Newgrounds page views.
