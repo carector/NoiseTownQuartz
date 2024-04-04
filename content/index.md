@@ -2,6 +2,4 @@
 title: Noisemaker's website
 ---
 
-Welcome. I'm just setting things up right now. Content will come soon!
-
-<!--<iframe style="border: 0; width: 350px; height: 588px;" src="https://bandcamp.com/EmbeddedPlayer/album=783343609/size=large/bgcol=181a1b/linkcol=ba7906/transparent=true/" seamless><a href="https://noisemaster.bandcamp.com/album/funeral-ep">Funeral EP by Noisemaker</a></iframe>--!>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

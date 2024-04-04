@@ -8,33 +8,33 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "MySite",
+    pageTitle: "Noiseblog",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "noise.town",
+    baseUrl: "blog.noise.town",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Quicksand",
+        body: "Karla",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          light: "#221E22",
+          lightgray: "#44355B",
+          gray: "#31263E",
+          darkgray: "#FFFFFF",
+          dark: "#ECA72C",
+          secondary: "#9E8BBB",
+          tertiary: "#EE5622",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {

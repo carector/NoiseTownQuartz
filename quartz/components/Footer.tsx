@@ -19,7 +19,7 @@ export default ((opts?: Options) => {
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
         <ul>
-        <img src="../static/nt/badge.gif"></img>
+        <img src="../static/nt/buns.gif" class="customCenter"></img>
           {Object.entries(links).map(([text, link]) => (
             <li>
               <a href={link}>{text}</a>
