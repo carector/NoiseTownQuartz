@@ -1,7 +1,12 @@
+---
+tags:
+  - completed
+  - unity
+---
 
 Blockade Runner was a submission to Newgrounds' [List Jam](https://www.newgrounds.com/collection/list-jam) and was developed over a weekend. Originally I wasn't really interested in participating, but then...
 
-![[blockaderunner.ogg]]
+![[public/res/audio/blockaderunner.ogg]]
 
 The main theme of the game was made in one sitting on the first day of the jam - but it wasn't made with the jam in mind! It ended up being such an inspiration that the rest of the game came into being solely so I could have something cool to showcase the track with.
 
@@ -15,6 +20,6 @@ I always wanted to do a follow-up project sometime down the line given how quick
 
 I'm also sitting on roughly a full album of completed songs for a soundtrack. Here's a couple of them:
 
-![[64-bit.ogg]]
-![[content/res/audio/140.ogg]]![[Rides Redux.ogg]]
+![[public/res/audio/64-bit.ogg]]
+![[content/res/audio/songs/140.ogg]]![[Rides Redux.ogg]]
 [You can play the game here.](https://www.newgrounds.com/portal/view/812427)
