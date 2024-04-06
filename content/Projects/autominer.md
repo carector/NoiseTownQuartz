@@ -4,7 +4,7 @@ tags:
   - completed
   - unity
 ---
-This is serious. Don't tell anyone I did this. It isn't legal. Someone might call the police.
+This is far from legal.
 
 After Club Penguin shut down in 2017, the fanmade revival Club Penguin Rewritten took its place (until Disney issued a cease-and-decist in 2021). I spent a lot of time messing around on the site just to reminisce, but I didn't really have it in me to grind out thousands of coins in a defunct kids' MMO from the late 2000's.
 
