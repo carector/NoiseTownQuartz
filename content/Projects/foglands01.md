@@ -2,7 +2,7 @@
 title: Recent Foglands happenings
 tags:
   - unity
-draft: true
+draft: false
 ---
 Contrary to how it might seem, I'm STILL WORKING ON THIS! I've constantly gone back and forth about whether to talk more about the game publicly. Progress is slow and I've tried to avoid showing something that's half-baked or that might not even be used in the future. 
 
