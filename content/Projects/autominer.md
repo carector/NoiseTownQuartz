@@ -6,7 +6,7 @@ tags:
 ---
 This is serious. Don't tell anyone I did this. It isn't legal. Someone might call the police.
 
-After Club Penguin shut down in 2017, the fanmade revival Club Penguin Rewritten took its place (until Disney issued a cease-and-decist in 2021). I spent a lot of time messing around on the site just to reminisce, but I didn't really have it in me to grind out thousands of coins in a defunct kids' MMO from the late 2000's.
+After Club Penguin shut down in 2017, the fanmade revival Club Penguin Rewritten took its place (until Disney issued a cease-and-decist in 2021). I spent a lot of time messing around on the site just to reminisce, but I didn't really have it in me to grind out thousands of coins in a defunct kids' game from the late 2000's.
 
 So I did what anyone would do: I spent about 2 hours making a program that could take advantage of the game's most lucrative minigame: The underground mine. Unlike other minigames on Club Penguin, you could earn coins in the mine just by wearing a miner's hat and digging at different locations in the room. After about five to ten seconds you'd be rewarded with a bit of pocket change. While the process was mind-numbing if you kept at it for long enough, it was by far the quickest way to generate an obscene amount of moolah.
 

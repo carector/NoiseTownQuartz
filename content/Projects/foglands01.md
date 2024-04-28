@@ -6,6 +6,7 @@ draft: true
 ---
 
 ### Wow... It's been years!
+
 Contrary to how it might seem, I'm STILL WORKING ON THIS! I've constantly gone back and forth about whether to talk more about the game publicly. Progress is slow and I've tried to avoid showing something that's half-baked or that might not even be used in the future. 
 
 But enough time has passed that I think I finally have a clear idea of the core gameplay loop, the mood of the music and art direction, and the bits that are way out of the scope of what I can reasonably achieve. The game is STILL far from done, but I feel like I'd be shooting myself in the foot by continuing to not share more details about it.

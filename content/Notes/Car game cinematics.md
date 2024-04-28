@@ -52,8 +52,12 @@ Best:
 * Blackrain https://www.youtube.com/watch?v=lwlQTGaMpOY
 * help (https://www.youtube.com/watch?v=cvijeCly0wg)
 * The End of Biters https://www.youtube.com/watch?v=gZCh6wzZxuI
+* 8 Point Agenda https://youtu.be/S5tDDNulWNI?si=pJj2jtSsXnhmzICx
+* Basic Instinct https://youtu.be/JXeJA2i-Lck?si=5YBfYQZDxOHrnvyj or Discipline 99 https://youtu.be/sXtrsUXPr74?si=zo6_pAHd1B6a9x60
+* 
 
 Others:
+- The Messenger (2:13) https://www.youtube.com/watch?v=nRDUVpliTuU
 - Drive - 1:23 - 1:50 (https://youtu.be/dVEBTXf-gk4?si=4pxJM_xE37uBPy3Y)
 - Exoworld - 13:45 - (https://www.youtube.com/watch?v=8F9L3-Sao3Y)
 - Dark Jungle - 1:17 - 1:52 (https://www.youtube.com/watch?v=6NK0ui9kNok)
