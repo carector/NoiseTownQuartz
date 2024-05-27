@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Noiseblog</title>
+      <link>https://blog.noise.town</link>
+      <description>Last 10 notes on Noiseblog</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Car game cinematics</title>
+    <link>https://blog.noise.town/Notes/Car-game-cinematics</link>
+    <guid>https://blog.noise.town/Notes/Car-game-cinematics</guid>
+    <description>Goal Get better at modeling environments and mimicking PS1 look Illustrate a story split across several characters, maybe told out of sequence Inspiration: 100 Bullets, new guy ...</description>
+    <pubDate>Mon, 27 May 2024 00:37:23 GMT</pubDate>
+  </item><item>
+    <title>Clone rewind game</title>
+    <link>https://blog.noise.town/Notes/Clone-rewind-game</link>
+    <guid>https://blog.noise.town/Notes/Clone-rewind-game</guid>
+    <description></description>
+    <pubDate>Mon, 27 May 2024 00:37:23 GMT</pubDate>
+  </item><item>
+    <title>Gizmo debug utility script</title>
+    <link>https://blog.noise.town/Notes/Gizmo-debug-utility-script</link>
+    <guid>https://blog.noise.town/Notes/Gizmo-debug-utility-script</guid>
+    <description>...</description>
+    <pubDate>Mon, 27 May 2024 00:37:23 GMT</pubDate>
+  </item><item>
+    <title>Intro to IoT</title>
+    <link>https://blog.noise.town/Notes/Intro-to-IoT</link>
+    <guid>https://blog.noise.town/Notes/Intro-to-IoT</guid>
+    <description>IoT Any reference books? 21 IoT Experiments - labs are all based on this 15 bucks on kindle Raspberry Pi IoT Projects: Prototyping experiments for makers Additional reference book ...</description>
+    <pubDate>Mon, 27 May 2024 00:37:23 GMT</pubDate>
+  </item><item>
+    <title>MTG tracker</title>
+    <link>https://blog.noise.town/Notes/MTG-tracker</link>
+    <guid>https://blog.noise.town/Notes/MTG-tracker</guid>
+    <description>Goals Create portfolio piece that isn’t a videogame Set up an easy way to display the view of the current player Tools Scryfall API for getting card data Discord bot API - hook into webcams ...</description>
+    <pubDate>Mon, 27 May 2024 00:37:23 GMT</pubDate>
+  </item><item>
+    <title>Noir point-and-click adventure</title>
+    <link>https://blog.noise.town/Notes/Noir-point-and-click-adventure</link>
+    <guid>https://blog.noise.town/Notes/Noir-point-and-click-adventure</guid>
+    <description>Gameplay Point and click puzzle game inspired by lucasarts games and Another World Two main parts to the gameplay Escape room style point-and-click puzzle stuff Take in only a few ...</description>
+    <pubDate>Mon, 27 May 2024 00:37:23 GMT</pubDate>
+  </item><item>
+    <title>OBLITERATOR</title>
+    <link>https://blog.noise.town/Notes/OBLITERATOR</link>
+    <guid>https://blog.noise.town/Notes/OBLITERATOR</guid>
+    <description>(Volume warning) OVERVIEW Top-down design (world and lore drive gameplay) Set in an endless maze of gothic architecture and crushing religious weight The player is practically ...</description>
+    <pubDate>Mon, 27 May 2024 00:37:23 GMT</pubDate>
+  </item><item>
+    <title>Klondike solitaire</title>
+    <link>https://blog.noise.town/Notes/node/Klondike-solitaire</link>
+    <guid>https://blog.noise.town/Notes/node/Klondike-solitaire</guid>
+    <description>...</description>
+    <pubDate>Mon, 27 May 2024 00:37:23 GMT</pubDate>
+  </item><item>
+    <title>three.js notes</title>
+    <link>https://blog.noise.town/Notes/node/three.js-notes</link>
+    <guid>https://blog.noise.town/Notes/node/three.js-notes</guid>
+    <description>Vite Build tool for optimizing + caching + running local server Can add plugins to handle features - GLSL and React React Three Fiber Launch command: cd src npx vite ...</description>
+    <pubDate>Mon, 27 May 2024 00:37:23 GMT</pubDate>
+  </item><item>
+    <title>stuffiwannado</title>
+    <link>https://blog.noise.town/Notes/stuffiwannado</link>
+    <guid>https://blog.noise.town/Notes/stuffiwannado</guid>
+    <description>Things I want to do and learn, sorted by priority Programming Javascript Node Any kind of backend-heavy projects Frontend-only firebase projects Anything that can serve as portfolio ...</description>
+    <pubDate>Mon, 27 May 2024 00:37:23 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
