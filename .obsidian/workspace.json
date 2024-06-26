@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/projects/music/album1.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/projects/music/album1.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/projects/music/album1.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/projects/music/album1.md"
+                "file": "content/index.md"
               }
             }
           }
@@ -146,56 +146,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bebfb655f8ef668",
+  "active": "72afcfef6264efae",
   "lastOpenFiles": [
-    "content/projects/games/Blockade Runner.md",
-    "content/projects/games/cargame.md",
-    "content/projects/games/procgen1.md",
-    "content/projects/games/slamma.md",
-    "content/res/images/screenshots/slammer10.gif",
-    "content/projects/games/foglands01.md",
-    "public/static/icon.png",
-    "public/res/images/screenshots/slammer9.gif",
-    "content/res/images/screenshots/slammer8.gif",
-    "content/res/images/screenshots/slammer9.gif",
-    "public/Projects/games/foglands01.html",
-    "content/projects/music/album1.md",
-    "public/Projects/code/index.html",
-    "public/Projects/code/autominer.html",
-    "public/Projects/code",
-    "public/Projects/games/slamma.html",
-    "public/Projects/games/procgen1.html",
-    "public/Projects/games/cargame.html",
-    "public/Projects/games/index.html",
-    "public/Projects/games/Blockade-Runner.html",
-    "public/Projects/games",
-    "public/res/images/screenshots/Pasted-image-20240503004352.png",
-    "public/Notes/node/MMO-Inventory-DB.canvas",
-    "public/res/images/albumart.png",
-    "public/Notes/455-Diagram.canvas",
-    "content/index.md",
+    "content/tutorials",
+    "content/posts",
     "Projects.md",
-    "content/tutorials/m1.md",
-    "content/tutorials/tips1.md",
-    "content/tutorials/jsonDialog.md",
-    "content/tutorials/fltips1.md",
-    "content/res/images/albumart.png",
-    "content/notes/node/MMO-Inventory-DB.canvas",
-    "content/notes/node/Untitled.md",
-    "content/notes/_stuffiwannado.md",
-    "content/notes/455 Diagram.canvas",
-    "content/notes/455 project ideas.md",
-    "public/res/images/screenshots/slammer8.gif",
-    "public/res/images/screenshots/slammer11.gif",
+    "Noteworthy projects.md",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
+    "content/projects/music/album1.md",
+    "content/projects/games/slamma.md",
+    "content/projects/games/procgen1.md",
+    "content/projects/games/cargame.md",
+    "content/projects/games/Blockade Runner.md",
     "content/projects/code/autominer.md",
+    "content/projects/music",
+    "content/projects/games",
+    "content/projects/code",
+    "content/projects",
     "content/notes/node/three.js notes.md",
+    "content/notes/node/Untitled.md",
+    "content/notes/node/MMO-Inventory-DB.canvas",
     "content/notes/node/Klondike solitaire.md",
     "content/notes/Unity timeline dynamic lyrics.md",
     "content/notes/OBLITERATOR.md",
+    "content/notes/_stuffiwannado.md",
+    "content/notes/node",
     "content/notes/Noir point-and-click adventure.md",
-    "content/notes/MTG tracker.md",
     "content/notes/Intro to IoT.md",
+    "content/notes/MTG tracker.md",
     "content/notes/Gizmo debug utility script.md",
-    "content/notes/Clone rewind game.md"
+    "content/notes/Clone rewind game.md",
+    "content/notes/Car game cinematics.md",
+    "content/notes/455 project ideas.md",
+    "content/notes/455 Diagram.canvas",
+    "content/notes",
+    "content/index.md",
+    "content/tutorials/m1.md",
+    "content/tutorials",
+    "content/res/images/screenshots/worldgen.gif",
+    "content/res/images/screenshots/slammer9.gif",
+    "content/res/images/screenshots/slammer10.gif",
+    "content/res/images/screenshots/slammer11.gif",
+    "content/res/images/screenshots/Slammer.gif",
+    "content/res/images/screenshots/Pasted image 20240404004038.png",
+    "content/res/images/screenshots/Pasted image 20240503004352.png",
+    "content/res/images/screenshots/car3.gif",
+    "content/res/images/screenshots/car2.gif",
+    "content/res/images/screenshots/car1.gif",
+    "content/res/audio/songs/Rides Redux.ogg",
+    "content/res/audio/songs/blockaderunner.ogg",
+    "public/Notes/node/MMO-Inventory-DB.canvas",
+    "public/Notes/455-Diagram.canvas"
   ]
 }
