@@ -25,7 +25,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
-        <img src="https://blog.noise.town/static/nt/buns.gif" class="customCenter"></img>
+        <img src="https://noisetownquartz.pages.dev/static/nt/buns.gif" class="customCenter"></img>
       </footer>
     )
   }
