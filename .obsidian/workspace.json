@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/posts/grapplegame/grapple001.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/posts/grapplegame/grapple001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/posts/grapplegame/grapple001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "content/posts/grapplegame/grapple001.md"
               }
             }
           }
@@ -146,10 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72afcfef6264efae",
+  "active": "1bebfb655f8ef668",
   "lastOpenFiles": [
-    "content/tutorials",
-    "content/posts",
+    "public/static/icon.png",
+    "public/static/nt/favicon.ico",
+    "public/static/Plant.png",
+    "public/images/quartz-transform-pipeline.png",
+    "public/images/quartz-layout.png",
+    "public/images/github-quick-setup.png",
+    "public/images/github-init-repo-options.png",
+    "public/images/dns-records.png",
+    "public/tags/plugin/transformer.html",
+    "public/tags/plugin/filter.html",
+    "public/tags/plugin/emitter.html",
+    "public/tags/plugin",
+    "public/tags/feature/transformer.html",
+    "public/tags/feature/filter.html",
+    "public/tags/feature/emitter.html",
+    "public/tags/feature",
+    "public/tags/feature.html",
+    "posts/grapplegame.md",
+    "content/index.md",
+    "grapplegame.md",
+    "content/posts/grapplegame/grapple001.md",
     "Projects.md",
     "Noteworthy projects.md",
     "README.md",
@@ -160,10 +179,6 @@
     "content/projects/games/cargame.md",
     "content/projects/games/Blockade Runner.md",
     "content/projects/code/autominer.md",
-    "content/projects/music",
-    "content/projects/games",
-    "content/projects/code",
-    "content/projects",
     "content/notes/node/three.js notes.md",
     "content/notes/node/Untitled.md",
     "content/notes/node/MMO-Inventory-DB.canvas",
@@ -171,31 +186,15 @@
     "content/notes/Unity timeline dynamic lyrics.md",
     "content/notes/OBLITERATOR.md",
     "content/notes/_stuffiwannado.md",
-    "content/notes/node",
     "content/notes/Noir point-and-click adventure.md",
     "content/notes/Intro to IoT.md",
     "content/notes/MTG tracker.md",
     "content/notes/Gizmo debug utility script.md",
     "content/notes/Clone rewind game.md",
-    "content/notes/Car game cinematics.md",
-    "content/notes/455 project ideas.md",
     "content/notes/455 Diagram.canvas",
-    "content/notes",
-    "content/index.md",
-    "content/tutorials/m1.md",
-    "content/tutorials",
     "content/res/images/screenshots/worldgen.gif",
     "content/res/images/screenshots/slammer9.gif",
     "content/res/images/screenshots/slammer10.gif",
-    "content/res/images/screenshots/slammer11.gif",
-    "content/res/images/screenshots/Slammer.gif",
-    "content/res/images/screenshots/Pasted image 20240404004038.png",
-    "content/res/images/screenshots/Pasted image 20240503004352.png",
-    "content/res/images/screenshots/car3.gif",
-    "content/res/images/screenshots/car2.gif",
-    "content/res/images/screenshots/car1.gif",
-    "content/res/audio/songs/Rides Redux.ogg",
-    "content/res/audio/songs/blockaderunner.ogg",
     "public/Notes/node/MMO-Inventory-DB.canvas",
     "public/Notes/455-Diagram.canvas"
   ]
